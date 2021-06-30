@@ -1,0 +1,2 @@
+take the input as directory
+walk the directory top to bottom
