@@ -1,2 +1,16 @@
-take the input as directory
-walk the directory top to bottom
+take sorting options
+
+
+{'1': 'module/root_folder/aa.txt', '2': 'module/root_folder/aa-copy.txt'}
+
+file_dict:
+OrderedDict(
+    [(120, 'module/root_folder/cc.txt'), 
+    (854, 'module/root_folder/bb.txt'), 
+    (996, ['module/root_folder/aa-copy.txt', 'module/root_folder/aa.txt']), 
+    (103865, 'module/root_folder/hutao.jpg'), 
+    (120477, 'module/root_folder/pandu.jpg'), 
+    (151773, 'module/root_folder/denji_reze.jpg'), 
+    (352518, 'module/root_folder/play_store.jpg'), 
+    (774205, 'module/root_folder/ganyu.jpg'), 
+    (9357642, 'module/root_folder/android52 - Dancing All Night.mp3')])
